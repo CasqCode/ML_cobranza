@@ -106,7 +106,7 @@ Exportación CSV con scores de propensión
 ## Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git](https://github.com/CasqCode/ML_cobranza.git
+git clone https://github.com/CasqCode/ML_cobranza.git
 cd tu-repo
 pip install -r requirements.txt
 ```
@@ -191,3 +191,4 @@ El objetivo no es maximizar accuracy (trivialmente alto al predecir siempre "no 
 
 
 Este proyecto es de uso personal y educativo. El código puede ser revisado libremente. No se permite su reproducción, distribución ni uso comercial sin autorización del autor.
+
